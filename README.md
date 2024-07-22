@@ -22,7 +22,6 @@ cd '.\Motion Extraction'
 python3 MotionExtraction.py
 ```
 
-
 ## Usage
 > [!TIP]
 > Keybinds to change settings of the program
@@ -44,3 +43,4 @@ python3 MotionExtraction.py
 - [ ] Add keybind `C` to change the camera source
   - [ ] \(Maybe) Allow user to see which number corresponds to which camera
 - [ ] Add keybind `I` to save the current frame as an Image
+- [ ] Pyinstaller's .exe doesn't work.. figure out how to fix that
