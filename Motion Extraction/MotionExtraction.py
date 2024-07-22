@@ -5,7 +5,10 @@
 2 - Logitech Capture
 
 ToDo:
-- Make it GitHub ready
+- Add keybind `C` to change the camera source
+  - (Maybe) Allow user to see which number corresponds to which camera
+- Add keybind `I` to save the current frame as an Image
+- Pyinstaller's .exe doesn't work.. figure out how to fix that
 '''
  
 # Imports
