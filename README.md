@@ -12,6 +12,7 @@ As the title suggests, it uses your webcam to basically 'extract motion' to show
 ## Installation
 > [!NOTE]
 > This assumes you already have Python 3
+
 In your terminal/command prompt, type/paste the below line-by-line
 ```
 git clone https://github.com/Ujjwal-Rohilla/MotionExtraction
