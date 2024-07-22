@@ -40,7 +40,7 @@ python3 MotionExtraction.py
 > - FPS might decrease if lighting is too low (to compensate for exposure/brightness) or if the FPS is not compatible with a resolution (like `1920x1080` and `120` FPS). All this depends on your WebCam
 
 ### To Do
-- [ ] Upload this Repo
+- [X] Upload this Repo
 - [ ] Add keybind `C` to change the camera source
   - [ ] \(Maybe) Allow user to see which number corresponds to which camera
 - [ ] Add keybind `I` to save the current frame as an Image
